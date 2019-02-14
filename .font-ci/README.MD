@@ -9,3 +9,5 @@
 3. Rename travis-template.yml to .travis.yml
 
 4. Edit lines 25 and 28 in .travis.yml so they point to a directory of fonts you would like to test.
+
+# How it works
